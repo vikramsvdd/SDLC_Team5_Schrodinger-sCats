@@ -12,9 +12,9 @@ Concepts like **convolution** **Fourier Transforms** are key to any signal proce
 
 Our System mainly is a user friendly system that takes in the choice of a user. This choice determines what operation is to be performed.Once the valid choice is obtained from the user,the system then prompts the user to give in the input discrete time signal. Then as per the choice of the user,a particular task is performed and the obtained resultant signal is displayed. The user gets another chance to give a choice and if he chooses to quit the program ends.
 
-# 4.Requirements-Building the requirements
+# 4.Build Requirements
 
-Since this is an user friendly project,the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal[1D array],for which the appropriate output is displayed[1D array].
+Since this is an user friendly project,the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal[1D array],for which the appropriate output is displayed[1D].
 
 # 5.Identify Features
 
@@ -32,17 +32,17 @@ The user gets to choose between various operations which are:
 
 6.Inverse Fast Fourier Transform
 
-7.Energy and Power Calculations
+7.Energy and Power Calculation
 
 # 6.State of Art
 
 ### Ageing-Time
 
-This project can be used up until newer,simpler methods or formulas are invented for calculations.
+Gives us a fair idea about the duration in which the project can be used,up until simpler methods or formulas are invented.
 
-### Ageing-Cost/Feature evolution
+### Ageing-Cost
 
-This project can be enhanced by adding more features to it in a cost effective manner.Various types of inputs can be given to obtain the required precise outputs after implementation in the near future.
+Showcases the possibilities of revolution or development of the project in the near future.
 
 # 7.4W&#39;s and 1&#39;H
 ## Who	
@@ -55,6 +55,10 @@ This project can be enhanced by adding more features to it in a cost effective m
 *   This is a calculator interface for signals, mostly it can be used by educational institutions. This Project can be used by the users anywhere with a computer having windows or linux Operating system.
 ## How
 *   By selecting the suitable feature & providing the appropriate inputs to obtain the result.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
+# Swot Analysis
+![Group5-SWOT](https://user-images.githubusercontent.com/86190217/130076044-25182d2b-2759-4b9c-bf49-8385fc307bd6.jpg)
+
+
 
 
 
