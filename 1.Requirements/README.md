@@ -44,6 +44,17 @@ Ageing-Cost
 
 Showcases the possibilities of revolution or development of the project in the near future.
 
- 
+# 7. 4W&#39;s and 1&#39;H
+## Who	
+*   All students/learners can use this interface to learn the concepts and verify their learnings.
+## What
+*   It is UI project that takes input Discrete signals and does the required operations which are mentioned above.
+## When
+*   User can use at any time for enhancing conceptual knowledge. 
+## Where
+*   This is a calculator interface for signals, mostly it can be used by educational institutions. This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
+## How
+*   By selecting the suitable feature & providing the appropriate inputs to obtain the result.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
+
 
 
