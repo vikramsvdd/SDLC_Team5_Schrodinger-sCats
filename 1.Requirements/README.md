@@ -12,6 +12,6 @@ Concepts like **convolution** **Fourier Transforms** are key to any signal proce
 
 Our System mainly is a user friendly system that takes in the choice of a user. This choice determines what operation is to be performed.Once the valid choice is obtained from the user,the system then prompts the user to give in the input discrete time signal. Then as per the choice of the user,a particular task is performed and the obtained resultant signal is displayed. The user gets another chance to give a choice and if he chooses to quit the program ends.
 
-# 4. 
+ 
 
 
