@@ -83,9 +83,8 @@ Showcases the possibilities of revolution or development of the project in the n
 |  L08      |   Inverse Discrete Fourier Transform of a signal |  Implemented    |
 |  L09      |   Energy and Power of a signal |  Implemented    |
 |  L10      |   Resultant Output in the form of [1D] array or singular value - Type : Signed float (can be complex) |  Implemented    |
-|  L11      |   Output - Resultant [1D] array or singular value | Implemented      |
-|  L12      |   Display Choice - To terminate program or go to User Interface again  |  Implemented    |
-|  L13      |   User Input - Choice to terminate or return to User Interface |  Implemented    |
+|  L11      |   Display Choice - To terminate program or go to User Interface again  |  Implemented    |
+|  L12      |   User Input - Choice to terminate or return to User Interface |  Implemented    |
 
 
 
