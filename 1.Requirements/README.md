@@ -52,7 +52,7 @@ Showcases the possibilities of revolution or development of the project in the n
 ## When
 *   User can use at any time for enhancing conceptual knowledge. 
 ## Where
-*   This is a calculator interface for signals, mostly it can be used by educational institutions. This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
+*   This is a calculator interface for signals, mostly it can be used by educational institutions. This Project can be used by the users anywhere with a computer having windows or linux Operating system.
 ## How
 *   By selecting the suitable feature & providing the appropriate inputs to obtain the result.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
 
