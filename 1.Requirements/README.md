@@ -14,7 +14,7 @@ Our System mainly, it's a user friendly system that takes in the choice of a use
 
 # 4. Build Requirements
 
-Since this is an user friendly project,the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal [1D array], for which the appropriate output is displayed [1D].
+Accordinglt to the project it may contains user friendly nature,which helps that the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal [1D array], for which the appropriate output is displayed [1D].
 
 # 5.Identify Features
 
@@ -38,11 +38,11 @@ The user gets to choose between various operations which are:
 
 ### Ageing-Time
 
-Gives us a fair idea about the duration in which the project can be used, up until simpler methods or formulas are invented.
+Gives us a fair idea about the duration in which the project can be used until whenever the simpler methods or formulas are invented.
 
 ### Ageing-Cost
 
-Showcases the possibilities of revolution or development of the project in the near future.
+Showcases for the possibilities of revolution or development of the project in the near future.
 
 # 7. 4W&#39;s and 1&#39;H
 ## Who	
@@ -54,10 +54,10 @@ Showcases the possibilities of revolution or development of the project in the n
 ## Where
 *   This is a calculator interface for signals, mostly it can be used by educational institutions. This Project can be used by the users anywhere with a computer having windows or linux Operating system.
 ## How
-*   By selecting the suitable feature & providing the appropriate inputs to obtain the result.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
+*   By selecting the suitable features & providing the some appropriate inputs to obtain the result.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
 
 # 8. Swot Analysis
-![GROUP5-SWOT analysis](https://user-images.githubusercontent.com/86190217/130079647-bde1a2c5-88e9-4880-873e-eba5a6ae6c21.jpg)
+![GROUP5_SWOT_analysis](https://user-images.githubusercontent.com/86190217/130079647-bde1a2c5-88e9-4880-873e-eba5a6ae6c21.jpg)
 
 # 9. Detailed Requirements
 
