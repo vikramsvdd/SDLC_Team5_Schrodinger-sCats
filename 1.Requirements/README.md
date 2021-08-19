@@ -6,7 +6,7 @@ In signal processing, a signal is a function that conveys information about a ph
 
 With regards to Modern day, Signal processing plays a major part in innovation and creativity. Hence it is important to understand and learn some of the basic operations that can be performed on a signal. A discrete time signal is one of the simplest form of a signal on which multiple operations can be performed .
 
-Concepts like **Convolution** **Fourier Transforms** are key to any signal processing application. Keeping in mind the importance of the mentioned few concepts, our project plans on implementing a few other concepts with the help of a simple user friendly interface that helps in performing these operations on a discrete time signal.
+Concepts like **Convolution** and **Fourier Transforms** are key to any signal processing application. Keeping in mind the importance of the mentioned few concepts, our project plans on implementing a few other concepts with the help of a simple user friendly interface that helps in performing these operations on a discrete time signal.
 
 # 3. Defining The System
 
@@ -62,8 +62,8 @@ Showcases the possibilities of revolution or development of the project in the n
 # 9. Detailed Requirements
 
 ## High Level Requirements:
-| ###### ID           | ###### Description        | ###### Status (Implemented/Future)   |    
-| :------------- | :---------- | ----------- |
+|  ID           |  Description        |  Status (Implemented/Future)   |    
+| :------------- | :---------- | :-----------: |
 |  H01             | User Interface   | Implemented   |
 |  H02             | Operation Inputs  | Implemented   |
 |  H03             | Signal Inputs   | Implemented   |
@@ -71,8 +71,8 @@ Showcases the possibilities of revolution or development of the project in the n
 |  H05             | Signal Operations | Implemented |
 
 ## Low Level Requirements:
-| ###### ID  | ###### Description        | ###### Status (Implemented/Future)      | 
-| :-------| :---------- | ----------- |
+|  ID  |  Description        |  Status (Implemented/Future)      | 
+| :-------| :---------- | :-----------: |
 |  L01      |   Oeration Choice - Type : Unsigned int (1 to 7) |  Implemented   | 
 |  L02      |   Signal Inputs in the form of [1D] array - Type : Signed float (can be complex) |  Implemented    |
 |  L03      |   Multiplication of 2 signals  |  Implemented    |
