@@ -64,27 +64,27 @@ Showcases the possibilities of revolution or development of the project in the n
 ## High Level Requirements:
 |  ID           |  Description        |  Status (Implemented/Future)   |    
 | :------------- | :---------- | :-----------: |
-|  H01             | User Interface   | Implemented   |
-|  H02             | Operation Inputs  | Implemented   |
-|  H03             | Signal Inputs   | Implemented   |
-|  H04             | Output      | Implemented       |
-|  H05             | Signal Operations | Implemented |
+|  H01             | User Interface   |    |
+|  H02             | Operation Inputs  |    |
+|  H03             | Signal Inputs   |    |
+|  H04             | Output      |       |
+|  H05             | Signal Operations |   |
 
 ## Low Level Requirements:
 |  ID  |  Description        |  Status (Implemented/Future)      | 
 | :-------| :---------- | :-----------: |
-|  L01      |   Oeration Choice - Type : Unsigned int (1 to 7) |  Implemented   | 
-|  L02      |   Signal Inputs in the form of [1D] array - Type : Signed float (can be complex) |  Implemented    |
-|  L03      |   Multiplication of 2 signals  |  Implemented    |
-|  L04      |   Linear Convolution of 2 signals |  Implemented    |
-|  L05      |   Circular Convolution of 2 signals|  Implemented    |
-|  L06      |   Discrete Time Fourier Transform of a signal |  Implemented    |
-|  L07      |   Fast Fourier Transform of a signal |  Implemented    |
-|  L08      |   Inverse Discrete Fourier Transform of a signal |  Implemented    |
-|  L09      |   Energy and Power of a signal |  Implemented    |
-|  L10      |   Resultant Output in the form of [1D] array or singular value - Type : Signed float (can be complex) |  Implemented    |
-|  L11      |   Display Choice - To terminate program or go to User Interface again  |  Implemented    |
-|  L12      |   User Input - Choice to terminate or return to User Interface |  Implemented    |
+|  L01      |   Oeration Choice - Type : Unsigned int (1 to 7) |     | 
+|  L02      |   Signal Inputs in the form of [1D] array - Type : Signed float (can be complex) |      |
+|  L03      |   Multiplication of 2 signals  |      |
+|  L04      |   Linear Convolution of 2 signals |      |
+|  L05      |   Circular Convolution of 2 signals|      |
+|  L06      |   Discrete Time Fourier Transform of a signal |      |
+|  L07      |   Fast Fourier Transform of a signal |     |
+|  L08      |   Inverse Discrete Fourier Transform of a signal |     |
+|  L09      |   Energy and Power of a signal |     |
+|  L10      |   Resultant Output in the form of [1D] array or singular value - Type : Signed float (can be complex) |     |
+|  L11      |   Display Choice - To terminate program or go to User Interface again  |    |
+|  L12      |   User Input - Choice to terminate or return to User Interface |    |
 
 
 
