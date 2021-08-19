@@ -40,7 +40,7 @@ The user gets to choose between various operations which are:
 
 ### Ageing-Time
 
-Gives us a fair idea about the duration in which the project can be used until whenever the simpler methods or formulas are invented.
+Gives us a fair idea about the duration upto which the project can be used, until whenever the simpler methods or formulas are invented.
 
 ### Ageing-Cost
 
