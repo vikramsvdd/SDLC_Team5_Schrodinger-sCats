@@ -6,7 +6,7 @@ In signal processing, A signal is a function which conveys information about a p
 
 In Modern days, Signal processing plays a major role in innovation and creativity. Hence it is important to understand and learn some of the basic operations that can be performed on a signal. A discrete time signal is one of the simplest form of a signal on which multiple operations can be performed .
 
-Concepts like **Convolution** and **Fourier Transforms** are key to any signal processing application. Keeping in mind the importance of the mentioned few concepts, our project plans upon implementing a few other concepts with the help of a simple user friendly interface that helps in performing these operations on a discrete time signal.
+Concepts like **Convolution** and **Fourier Transforms** are key to any signal processing application. Keeping in mind with the importance of the mentioned few concepts, our project plans upon implementing a few other concepts with the help of a simple user friendly interface that helps in performing these operations on a discrete time signal.
 
 # 3. Defining The System
 
