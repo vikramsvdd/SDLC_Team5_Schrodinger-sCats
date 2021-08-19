@@ -12,6 +12,31 @@ Concepts like **convolution** **Fourier Transforms** are key to any signal proce
 
 Our System mainly is a user friendly system that takes in the choice of a user. This choice determines what operation is to be performed.Once the valid choice is obtained from the user,the system then prompts the user to give in the input discrete time signal. Then as per the choice of the user,a particular task is performed and the obtained resultant signal is displayed. The user gets another chance to give a choice and if he chooses to quit the program ends.
 
+# 4.Build Requirements
+
+Since this is an user friendly project,the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal[1D array],for which the appropriate output is displayed[1D].
+
+# 5.Identify Features
+
+The user gets to choose between various operations which are:
+1.Multiplication of 2 signals
+2.Linear convolution
+3.Circular convolution
+4.Discrete Fourier Transform
+5.Fast Fourier Transform
+6.Inverse Fast Fourier Transform
+7.Energy/Power
+
+# 6.State of Art
+
+Ageing-Time
+
+Gives us a fair idea about the duration in which the project can be used,up until a simpler methods or formulas are invented.
+
+Ageing-Cost
+
+Showcases the possibilities of revolution or development of the project in the near future.
+
  
 
 
