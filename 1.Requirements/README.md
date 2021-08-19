@@ -12,6 +12,8 @@ Concepts like **Convolution** and **Fourier Transforms** are key to any signal p
 
 Our System mainly, it's a user friendly system that takes in the choice of a user. This choice determines what operation is to be performed. Once the valid choice is obtained from the user, the system then prompts the user to give in the input discrete time signal. Then as per the choice of the user, a particular task is performed and the obtained resultant signal is displayed. The user gets another chance to give a choice and if he chooses to quit the program ends.
 
+ The discrete Fourier transform (DFT) converts a finite list of equally spaced samples of a function into the list of coefficients of a finite combination of complex sinusoids, ordered by their frequencies, that has those same sample values. It can be said to convert the sampled function from its original domain (often time or position along a line) to the frequency domain.
+
 # 4. Build Requirements
 
 Accordinglt to the project it may contains user friendly nature,which helps that the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal [1D array], for which the appropriate output is displayed [1D].
