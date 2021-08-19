@@ -36,11 +36,11 @@ The user gets to choose between various operations which are:
 
 # 6. State of Art
 
-###### Ageing-Time
+### Ageing-Time
 
 Gives us a fair idea about the duration in which the project can be used, up until simpler methods or formulas are invented.
 
-###### Ageing-Cost
+### Ageing-Cost
 
 Showcases the possibilities of revolution or development of the project in the near future.
 
