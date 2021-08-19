@@ -12,9 +12,9 @@ Concepts like **convolution** **Fourier Transforms** are key to any signal proce
 
 Our System mainly is a user friendly system that takes in the choice of a user. This choice determines what operation is to be performed.Once the valid choice is obtained from the user,the system then prompts the user to give in the input discrete time signal. Then as per the choice of the user,a particular task is performed and the obtained resultant signal is displayed. The user gets another chance to give a choice and if he chooses to quit the program ends.
 
-# 4.Build Requirements
+# 4.Requirements-Building the requirements
 
-Since this is an user friendly project,the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal[1D array],for which the appropriate output is displayed[1D].
+Since this is an user friendly project,the user gets to choose the desired operation to be performed to obtain the required output.The input given is a discrete time signal[1D array],for which the appropriate output is displayed[1D array].
 
 # 5.Identify Features
 
@@ -32,17 +32,17 @@ The user gets to choose between various operations which are:
 
 6.Inverse Fast Fourier Transform
 
-7.Energy and Power Calculation
+7.Energy and Power Calculations
 
 # 6.State of Art
 
 ### Ageing-Time
 
-Gives us a fair idea about the duration in which the project can be used,up until simpler methods or formulas are invented.
+This project can be used up until newer,simpler methods or formulas are invented for calculations.
 
-### Ageing-Cost
+### Ageing-Cost/Feature evolution
 
-Showcases the possibilities of revolution or development of the project in the near future.
+This project can be enhanced by adding more features to it in a cost effective manner.Various types of inputs can be given to obtain the required precise outputs after implementation in the near future.
 
 # 7.4W&#39;s and 1&#39;H
 ## Who	
