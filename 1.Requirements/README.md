@@ -57,7 +57,7 @@ Showcases the possibilities of revolution or development of the project in the n
 *   By selecting the suitable feature & providing the appropriate inputs to obtain the result.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
 
 # 8. Swot Analysis
-![Group5-SWOT](https://user-images.githubusercontent.com/86190217/130076044-25182d2b-2759-4b9c-bf49-8385fc307bd6.jpg)
+![GROUP5-SWOT analysis](https://user-images.githubusercontent.com/86190217/130079647-bde1a2c5-88e9-4880-873e-eba5a6ae6c21.jpg)
 
 # 9. Detailed Requirements
 
