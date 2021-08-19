@@ -44,7 +44,7 @@ Ageing-Cost
 
 Showcases the possibilities of revolution or development of the project in the near future.
 
-# 7. 4W&#39;s and 1&#39;H
+# 7.4W&#39;s and 1&#39;H
 ## Who	
 *   All students/learners can use this interface to learn the concepts and verify their learnings.
 ## What
