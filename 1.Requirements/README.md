@@ -32,7 +32,7 @@ The user gets to choose between various operations which are:
 
 5. Fast Fourier Transform
 
-6. Inverse Discrete Fourier Transform
+6. Inverse Fast Fourier Transform
 
 7. Energy and Power Calculation
 
