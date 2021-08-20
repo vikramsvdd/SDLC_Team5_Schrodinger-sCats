@@ -2,7 +2,7 @@
 
 ## Table no: High level test plan
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |  
+| **Test ID** | **Description**                                              | **Expected i/p** | **Expected o/p** | **Actual o/p** |**Type Of test**  |  
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------| 
 | H_1 | Basic UI | Integer(1-7) | SUCCESS |                | |
 | H_2 | Multiplication of 2 signals | 1D array signals | SUCCESS |          |  |
@@ -15,7 +15,7 @@
 | H_9 | Energy & Power | Float | SUCCESS |       |  |
 
 # Table no: Low level test plan
-| Test ID | Description | Expected i/p | Expected o/p | Actual o/p | Type of test |
+| **Test ID** | **Description** | **Expected i/p** | **Expected o/p** | **Actual o/p** | **Type of test** |
 | ------- | ---------------- | ------------ | ------------ | ---------- | ------------ |
 | L_1 | Choice(valid) | 1-7 | Success | | |
 | L_2 | Choice(invalid) | Anything other than 1-7 | -1 | | |
