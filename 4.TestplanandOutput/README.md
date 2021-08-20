@@ -11,4 +11,4 @@
 | H_5 | Discrete Fourier transform | 1D array signals | SUCCESS |          | Technical |
 | H_6 | Fast Fourier transform | 1D array signals | SUCCESS |        | Technical |
 | H_7 | Inverse Fast Fourier transform | 1D array signals | SUCCESS |      | Technical |
-| H_8 | Energy & Power | 1D array signals | SUCCESS |       | Technical |
+| H_8 | Energy & Power | Float | SUCCESS |       | Technical |
