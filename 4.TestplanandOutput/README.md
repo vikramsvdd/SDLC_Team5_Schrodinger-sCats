@@ -4,15 +4,15 @@
 
 | **Test ID** | **Description**                                              | **Expected i/p** | **Expected o/p** | **Actual o/p** |**Type Of test**  |  
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------| 
-| H_1 | Basic UI | Integer(1-7) | SUCCESS |                | |
-| H_2 | Multiplication of 2 signals | 1D array signals | SUCCESS |          |  |
-| H_3 | Linear convolution | 1D array signals | SUCCESS |         |  |
-| H_4 | Circular convolution | 1D array signals | SUCCESS |       | |
-| H_5 | Discrete Time Fourier transform | 1D array signals | SUCCESS |          | |
-| H_6 | Fast Fourier transform | 1D array signals | SUCCESS |        |  |
-| H_7 | Inverse Discrete Time Fourier transform | 1D array signals | SUCCESS |       |  |
-| H_8 | Inverse Fast Fourier transform | 1D array signals | SUCCESS |      |  |
-| H_9 | Energy & Power | Float | SUCCESS |       |  |
+| H_1 | Basic UI | Integer(1-7) | Succcess |                | |
+| H_2 | Multiplication of 2 signals | 1D array signals | Succcess |          |  |
+| H_3 | Linear convolution | 1D array signals | Succcess |         |  |
+| H_4 | Circular convolution | 1D array signals | Succcess |       | |
+| H_5 | Discrete Time Fourier transform | 1D array signals | Succcess |          | |
+| H_6 | Fast Fourier transform | 1D array signals | Succcess |        |  |
+| H_7 | Inverse Discrete Time Fourier transform | 1D array signals | Succcess |       |  |
+| H_8 | Inverse Fast Fourier transform | 1D array signals | Succcess |      |  |
+| H_9 | Energy & Power | Float | Succcess |       |  |
 
 # Table no: Low level test plan
 | **Test ID** | **Description** | **Expected i/p** | **Expected o/p** | **Actual o/p** | **Type of test** |
