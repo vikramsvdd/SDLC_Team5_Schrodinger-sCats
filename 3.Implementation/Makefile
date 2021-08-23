@@ -1,0 +1,85 @@
+PROJ_NAME = Combined
+TEST_PROJ_NAME = Test_$(PROJ_NAME)
+
+# Output directory
+BUILD_DIR = build
+
+# Main file name
+MAIN_NAME = main.c
+
+# All source code files
+SRC = src/DCT.c\
+    src/IDCT.c\
+	src/DFT.c\
+	src/IDFT.c\
+	src/Product.c\
+	src/Linear_convo.c\
+	src/Circular_convo.c\
+	src/Energy_Power.c
+
+
+TEST_SRC = test/test.c\
+unity/unity.c
+
+
+# All include folders with header files
+INC = -Iinc\
+-Iunity
+
+
+# All include folders for cppcheck
+CPPCHECK_INC = -Iinc src
+
+#To check if the OS is Windows or Linux and set the executable file extension and delete command accordingly
+ifdef OS
+   MOVE = move
+   RM = del /q
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+	  MOVE = mv
+      RM = rm -rf
+      FixPath = $1
+	  EXEC = out
+   endif
+endif
+
+# Makefile will not run target command if the name with file already exists. To override, use .PHONY
+.PHONY : all test coverage run clean doc
+
+
+
+
+
+
+all:$(BUILD_DIR)
+	gcc $(MAIN_NAME) $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).$(EXEC)) -lm
+
+run: all
+	$(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).$(EXEC)) 
+
+
+test: $(SRC) $(TEST_SRC) $(BUILD_DIR)
+	gcc $(SRC) $(TEST_SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) -lm
+	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
+
+
+$(BUILD_DIR):
+	mkdir $(BUILD_DIR)
+	
+cppcheck:
+	cppcheck --enable=all $(CPPCHECK_INC) *.c
+
+
+valgrind_test: $(SRC) $(TEST_SRC) $(BUILD_DIR)
+	gcc $(SRC) $(TEST_SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) -lm
+	valgrind $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
+	
+doc:
+	make -C documentation
+	
+clean:
+	$(RM) $(call FixPath,$(BUILD_DIR)/*)
+	make clean -C doc
+	rmdir $(BUILD_DIR) doc/html
