@@ -19,5 +19,5 @@ jobs:
         
     - name: make test
       run: make -C 3.Implementation/ test
-    - name: Valgrid
+    - name: Valgrind
       run: make -C 3.Implementation/ valgrind_test
