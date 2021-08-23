@@ -12,9 +12,9 @@
 
 ![Structural](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/blob/main/2.Architecture/Circular%20Convolution.png)
 
-* Discrete Fourier Transform
+* Discrete Fourier Transform and Inverse Discrete Fourier Transform
 
-![Behavioural](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/blob/main/2.Architecture/DFT.png)
+![Behavioural](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/blob/main/2.Architecture/dft%20%26%20idft.jpeg)
 
 
 
