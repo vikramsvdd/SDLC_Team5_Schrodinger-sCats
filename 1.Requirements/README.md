@@ -28,13 +28,15 @@ The user gets to choose between various operations which are:
 
 3. Circular convolution
 
-4. Discrete Time Fourier Transform
+4. Discrete Fourier Transform
 
-5. Fast Fourier Transform
+5. Inverse Discrete Fourier Transform
 
-6. Inverse Fast Fourier Transform
+6. Discrete cosine Transform
 
-7. Energy and Power Calculation
+7. Inverse Discrete cosine Transform
+
+8. Energy and Power Calculation 
 
 # 6. State of Art
 
