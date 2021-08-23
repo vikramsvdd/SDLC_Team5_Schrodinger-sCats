@@ -8,9 +8,7 @@ BUILD_DIR = build
 MAIN_NAME = main.c
 
 # All source code files
-SRC = src/DCT.c\
-    src/IDCT.c\
-	src/DFT.c\
+SRC =src/DFT.c\
 	src/IDFT.c\
 	src/Product.c\
 	src/Linear_convo.c\
