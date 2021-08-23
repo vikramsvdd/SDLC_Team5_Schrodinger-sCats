@@ -12,9 +12,6 @@ void test_energy(void);
 
 void test_power(void);
 
-void test_dct(void);
-
-void test_idct(void);
 
 void test_cir_conv(void);
 
@@ -76,27 +73,7 @@ TEST_ASSERT_EQUAL_FLOAT_ARRAY(x_imaginary,Calculate_IDFT_real(X_real,X_imaginary
 }
 
 
-void test_dct(void){
 
-int N=4;
-float inreal[4]={1,4,9,16};
-float inimaginary[4]={6,8,3,-2};
-float outreal[4];
-float outimaginary[4];
-TEST_ASSERT_EQUAL_FLOAT_ARRAY(outreal,dct_real(inreal,inimaginary,outreal,N),N);
-TEST_ASSERT_EQUAL_FLOAT_ARRAY(outimaginary,dct_imag(inreal,inimaginary,outimaginary,N),N);
-}
-
-void test_idct(void){
-
-int N=4;
-float inreal[4]={1,4,9,16};
-float inimaginary[4]={6,8,3,-2};
-float outreal[4];
-float outimaginary[4];
-TEST_ASSERT_EQUAL_FLOAT_ARRAY(outreal,idct_real(inreal,inimaginary,outreal,N),N);
-TEST_ASSERT_EQUAL_FLOAT_ARRAY(outimaginary,idct_imag(inreal,inimaginary,outimaginary,N),N);
-}
 
 void test_cir_conv(void){
 
@@ -143,9 +120,7 @@ int main(void)
   RUN_TEST(test_energy);
   
   RUN_TEST(test_power);
-  RUN_TEST(test_dct);
-  
-  RUN_TEST(test_idct);
+ 
   
   RUN_TEST(test_cir_conv);
   
