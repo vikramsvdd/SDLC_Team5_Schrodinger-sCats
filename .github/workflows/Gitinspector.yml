@@ -8,8 +8,7 @@ on:
 
 jobs:
   inspect:
-
-    runs-on: ubuntu-latest
+   runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
@@ -34,6 +33,7 @@ jobs:
         gitinspector.py -wTHl --format=text -f c,h,md,yml,* -x file:Implementation/unity -x file:doc .
         gitinspector.py -wTHl --format=html -f c,h,md,yml,* -x file:Implementation/unity -x file:doc . > ~/result.html
         echo "======================================"
+        
    #If using gihub io pages feature
    # - name : Update Results to gh-pages
    #   uses: actions/checkout@v2
