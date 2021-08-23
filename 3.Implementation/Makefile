@@ -9,7 +9,7 @@ MAIN_NAME = main.c
 
 # All source code files
 SRC =src/DFT.c\
-	src/IDFT.c\
+	src/idft.c\
 	src/Product.c\
 	src/Linear_convo.c\
 	src/Circular_convo.c\
