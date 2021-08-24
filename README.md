@@ -39,6 +39,7 @@
 |5|IDFT|        
 |6|Energy & Power
 
+# PROJECT DEMO
 ![Alt Text](Demo.gif)
 
 ## Challenges faced and How it was Overcome
