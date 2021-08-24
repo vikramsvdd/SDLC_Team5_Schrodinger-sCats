@@ -1,18 +1,18 @@
 # TEST PLAN:
 
-## Table no: High level test plan
+# Table no: High level test plan
 
 | **Test ID** | **Description**                                              | **Expected i/p** | **Expected o/p** | **Actual o/p** |**Type Of test**  |  
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------| 
-| H_1 | Basic UI | Integer(1-7) | Success |                | |
-| H_2 | Multiplication of 2 signals | 1D array signals | Success |          |  |
-| H_3 | Linear convolution | 1D array signals | Success |         |  |
-| H_4 | Circular convolution | 1D array signals | Success |       | |
-| H_5 | Discrete Time Fourier transform | 1D array signals | Success |          | |
-| H_6 | Fast Fourier transform | 1D array signals | Success |        |  |
-| H_7 | Inverse Discrete Time Fourier transform | 1D array signals | Success |       |  |
-| H_8 | Inverse Fast Fourier transform | 1D array signals | Success |      |  |
-| H_9 | Energy & Power | Float | Success |       |  |
+| H_1 | Basic UI | Integer(1-7) | Success | Success | Technical |
+| H_2 | Multiplication of 2 signals | 1D array signals | Success |   Success | Technical  |
+| H_3 | Linear convolution | 1D array signals | Success |  Success  | Technical  |
+| H_4 | Circular convolution | 1D array signals | Success | Success | Technical |
+| H_5 | Discrete Fourier transform | 1D array signals | Success | Success  | Technical |
+| H_6 | Discrete Cosine transform | 1D array signals | Success |    |  |
+| H_7 | Inverse Discrete Fourier transform | 1D array signals | Success | Success  | Technical |
+| H_8 | Inverse Discrete Cosine transform| 1D array signals | Success |      |  |
+| H_9 | Energy & Power | Float | Success |  Success  | Technical |
 
 # Table no: Low level test plan
 | **Test ID** | **Description** | **Expected i/p** | **Expected o/p** | **Actual o/p** | **Type of test** |
