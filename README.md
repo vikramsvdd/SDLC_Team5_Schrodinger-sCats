@@ -1,4 +1,10 @@
 # Digital Signal Calculator
+
+# BADGES 
+|Build       |CppCheck      | Git-Inspector   | Valgrind | Unit Testing |
+|------------|--------------|-----------------|--------------|-------------|
+|[![C/C++ CI](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Build.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Build.yml)|[![cppcheck-action](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/cppcheck.yml)|[![Check - Git Inspector](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Gitinspector.yml)|[![Valgrind](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Valgrind.yml)| [![Unit Testing - Unity](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Unity.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Unity.yml)               
+
 ### FOLDER STRUCTURE
 | Folder  | Description  |
 |--- |--- |
@@ -8,6 +14,7 @@
 | 4.Test Plan and Output | Required test plans and outputs |
 | 5.Report | Generated Report |
 | 6.ImagesandVideos | Images and Videos of the Project Implementation |
+
 ## Contribution List
 | PS No | Name          |
 |---     |---            |
@@ -21,6 +28,7 @@
 |99005657|Merugumala Jaswanth|
 |99005683|Ritul Kumar Gupta|
 |99005645|Madduri Karteek Kumar|
+
 ## Features Table
 |Sr. No. | Features |
 |--- |--- |
@@ -30,13 +38,12 @@
 |4| DFT |
 |5|IDFT|        
 |6|Energy & Power
+
+![Alt Text](Demo.gif)
+
 ## Challenges faced and How it was Overcome
 | Sr. No. | Challenges | Overcome |
 |--- |--- |--- |
 |1 | Integrating Multiple feature | By Studing about the basic concepts |
 |2 | Coming up with single format of all features | By doing research |
 |3 | Makefile to automate the build process | Went to stepin project to recap the Makefile concept |
-# BADGES 
-|Build       |CppCheck      | Git-Inspector   | Valgrind | Unit Testing |
-|------------|--------------|-----------------|--------------|-------------|
-|[![C/C++ CI](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Build.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Build.yml)|[![cppcheck-action](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/cppcheck.yml)|[![Check - Git Inspector](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Gitinspector.yml)|[![Valgrind](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Valgrind.yml)| [![Unit Testing - Unity](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Unity.yml/badge.svg)](https://github.com/rachit-kulkarni/SDLC_Team5_Schrodinger-sCats/actions/workflows/Unity.yml)               
